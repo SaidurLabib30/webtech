@@ -9,17 +9,11 @@
 
     <h3>Submitted Information :</h3>
 
-        <li><b>First Name:</li>
-        <li><b>Last Name:</b> </li>
-        <li><b>Email:</b> </li>
-        <li><b>Phone:</b> </li>
-        <li><b>Date of Birth:</b> </li>
-        <li><b>Gender:</b> </li>
-        <li><b>Address:</b> </li>
-    
 
     <p><b>Your registration is confirmed!</b></p>
 
-
+<h1>WLCOME TO ABC HOTEL</h1>
+<P>
+<img src="HI.jpg">
 </body>
 </html>
